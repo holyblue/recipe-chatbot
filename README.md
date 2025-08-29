@@ -129,3 +129,16 @@ This course emphasizes:
 - **Systematic evaluation** over "vibes"
 - **Progressive complexity** - each homework builds on previous work
 - **Industry-standard techniques** for real-world AI evaluation
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](
+https://codespaces.new/OWNER/REPO?quickstart=1)
+
+
+### 教學快速開始（雲端環境）
+1. 點上面的 **Open in GitHub Codespaces** 按鈕
+2. 等待環境自動安裝（~1–2 分）
+3. 在 Codespaces 終端機執行：
+```bash
+   bash scripts/start.sh
+```
+4. 瀏覽器自動打開 FastAPI 頁（或手動開啟預覽的 8000 埠）
