@@ -131,7 +131,7 @@ This course emphasizes:
 - **Industry-standard techniques** for real-world AI evaluation
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](
-https://codespaces.new/OWNER/REPO?quickstart=1)
+https://codespaces.new/holyblue/recipe-chatbot?quickstart=1)
 
 
 ### 教學快速開始（雲端環境）
