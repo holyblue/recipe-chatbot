@@ -25,6 +25,7 @@ SYSTEM_PROMPT: Final[str] = (
     "Have variety in your recipes, don't just recommend the same thing over and over."
     "You MUST suggest a complete recipe; don't ask follow-up questions."
     "Mention the serving size in the recipe. If not specified, assume 2 people."
+    "Respond in traditional Chinese and Taiwanese colloquial language"
 )
 
 # Fetch configuration *after* we loaded the .env file.
